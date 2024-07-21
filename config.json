@@ -1,0 +1,13 @@
+{ 
+"prefix":"!",
+"owner":["1193920304892887060"],
+"token":"MTI2NDAyODk4NzU3OTk2MTQyNA.GSlVyc.29cM_06bGHLvE6M9J_ctgeN5FAx4BIlYWhDQxI",
+"CLIENTID":"1264028987579961424",
+"mainGuild": "1264003610522554459",
+"CoderServer":"1264003610522554459",
+"selllogsch":"1264012842126938112",
+"join_leavelog":"1264012846119915530",
+"SupportRole":"1264012519354400911",
+"CoderSubBackground":"https://cdn.discordapp.com/attachments/1102151324038082642/1129449856214245527/Profile.png",
+"mongoDB":"mongodb+srv://publicgeneral:publicgeneral@public.a85ijsx.mongodb.net"
+}
